@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title> HOLA! </title>
+</head>
+<body>
+<p> El trabajo final integrador consta de un interprete de lenguaje en este caso de HTML5
+Para la primera instancia elaboramos la gramatica que genera dicho lenguaje, que mas tarde seguiria nuestro Parser para realizar el analisis sintactico
+</p>
+<p>  Como segunda instancia propuesta por la catedra, elaboramos el analizador lexico compuesto primeramente por las expresiones regulares a utilizar seguidas de las reglas  </p>
+<h2> Para poder  ejecutar y compilar el analizador lexico  </h2>
+<p> se requiere tener descargado Flex, la version que utilizamos fue:  2. 5.35 </p>
+<p>En la tercera instancia y con el Lexer aprobado, pasamos a la realizacion del analizador sintactico Parser que consta de las declaraciones de los tokens que recibe del Lexer y en segundo lugar las Reglas Gramaticales, que son las que definen la estructura que debe seguir el lenguaje
+</p>
+<p> Lista de programas utilizados </p>
+<ol> 
+<li> Flex 2.5.35</li>
+<li> Al compilar el archivo "Lexer-G22.2.l" con "Flex" desde los comandos de sistema se genera el archivo "lex.yy.c"  conteniendo el codigo necesario en <STRONG>C</STRONG> </li>
+<li> Bison 2.4.2 </li>
+<li> una vez compilado el archivo " Parser-G22.2.y"  con Bison junto a la opcion -yd  se generan dos archivos: y.tab.c e y.tab.h. </li>
+<li>  Al contar con el archivo lex.yy.c  junto con archivo y.tab.c,  con la instruccion gcc obtenemos el Interprete de Lenguaje HTML5  </li>
+
+</ol>
+<p> <strong> Este interprete cuenta con dos restricciones: </strong> </p> <br>
+<ul>
+<li> No reconoce espacios en las etiquetas de apertura, es decir, del lado derecho del tag, pero si del lado izquierdo </li>
+<li> No reconoce letras con tildes al analizar un archivo, pero si al ingresar desde el <strong>modo interactivo</strong></li>
+<li> <mark>Sin embargo esto no afecta al correcto funcionamiento del Analizador Sintactico </mark></li>
+</ul>
+<p> Esperamos que les guste nuestro trabajo tanto como a nosotros! </p>  
+</body>
+</html>
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8" >
+	<meta name="Analizador" content="Sintactico">
+	<TITLE>SOY SABALERO</TITLE>
+</head>
+<BODY>
+<a href="https://www.youtube.com/watch?v=PTjuYrZPq7U"><h1> SOY SABALERO </h1> </a>
+<p> No hace falta que les digan que soy raza <br>
+Por mi piel escapa el alma sabalera,</p>
+<h3>Sangre y luto es el color de mi bandera</h3>
+<SECTION>Y a los negros yo los llevo aquí en el alma.</section>
+<br>
+<ol type="a">
+<li>Es el negro un sentimiento que se lleva de verdad</li>
+<li>Y que late al compás del corazón,</li>
+<li>Si ganara yo al infierno por ser negro y nada más</li>
+<li>Moriré llevando negro el corazón.</li>
+</ol>
+<ul>
+<li>Sabale, sabale, la culpa de este pueblo sabalero,</li>
+<li>Sabale, sabale, que todo el mundo grite dale negro!</li>
+</ul>
+<hr>
+<strong class="AH EH EH AH"> yo soy SABALERO,</strong>
+<strong class="AH EH EH AH" id="sabalero">, SABALERO </strong>
+<em> AH EH EH AH yo soy SABALERO,</EM>
+<MARK>AH EH EH AH sabalero, Sabalero.</MARK>
+<hr>
+<table>
+<tr>
+<td> <strong>He nacido en las orillas roja y negras</strong></td>
+<td><strong>Yo me entiendo con la gente sabalera,.</strong></td>
+<th><strong>Soy amiga del ciruja y del maestro</strong> </th>
+<td> <strong> Con el tordo y con el punga yo me encuentro. </strong> </td>
+</tr>
+</table>
+<br>
+<ol>
+<li>Y en mi casa se codea la pobreza y el señor,</li>
+<li>Con el cura el judío y el pastor,</li>
+<li>Aunque me ganara el cielo por cambiarme de color</li>
+<li>Moriré llevando <strong>negro el corazón.</strong></li>
+</ol>
+<br>
+Sabale, sabale, la culpa de este pueblo sabalero,
+Sabale, sabale, que todo el mundo grite dale negro!
+<br>
+<em> Ah eh eh ah yo soy sabalero, </em>
+<em> Ah eh eh ah sabalero, Sabalero, </em>
+<em> Ah eh eh ah yo soy sabalero, </em>
+<em> Ah eh eh ah sabalero, Sabalero. </em>
+<em> Ah eh eh ah yo soy sabalero</em>
+<em> Ah eh eh ah sabalero, Sabalero</em>
+</body>
+</html>
